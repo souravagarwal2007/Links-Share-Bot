@@ -42,12 +42,12 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/Infinix
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Im_Sukuna02</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/animes_cruise'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/Infinix_Movie'>ɪɴꜰɪɴɪx ᴍᴏᴠɪᴇꜱ</a>
-›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/Webseries_Infinix'>ɪɴꜰɪɴɪx ᴡᴇʙꜱᴇʀɪᴇꜱ/a>
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/animes_cruise'>ᴀɴɪᴍᴇ ɪɴꜰɪɴɪx</a>
+<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/Infinix_Movie'>ᴍᴏᴠɪᴇꜱ ɪɴꜰɪɴɪx</a>
+›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/Webseries_Infinix'>ɪɴꜰɪɴɪx ᴡᴇʙꜱᴇʀɪᴇꜱ</a>
 ›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/Infinix_Adult'>ᴄᴏʀɴʜᴜʙ</a>
 ›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/PornhwaInfinix'>ᴘᴏʀɴʜᴡᴀ</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/InfinixSyndicate'>ᴏᴛᴀᴋᴜғʟɪx</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/InfinixSyndicate'>ɪɴꜰɪɴɪx ꜱʏɴᴅɪᴄᴀᴛᴇ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @Im_Sukuna02</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
