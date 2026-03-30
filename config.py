@@ -35,8 +35,7 @@ HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a 
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Sukuna (@Im_Sukuna02) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
 ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/InfinixSyndicate'>ɪɴꜰɪɴɪx ꜱʏɴᴅɪᴄᴀᴛᴇ</a>
-<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/codeflix_bots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
-›› ᴏᴡɴᴇʀ: <a href='https://t.me/Im_Sukuna02'>Sᴜᴋᴜɴᴀ</a>
+<blockquote expandable>›› ᴏᴡɴᴇʀ: <a href='https://t.me/Im_Sukuna02'>Sᴜᴋᴜɴᴀ</a>
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
